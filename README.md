@@ -19,6 +19,10 @@
 - Chest Recoil Indicator
 - CPR Cycle Counter
 
+**Reference**
+- (https://www.philips.com.eg/healthcare/articles/cpr-quality-a-measurable-difference)
+- (https://www.msdmanuals.com/professional/critical-care-medicine/cardiac-arrest-and-cpr/cardiopulmonary-resuscitation-cpr-in-adults)
+
   
 
  
