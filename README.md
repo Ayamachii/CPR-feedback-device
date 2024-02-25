@@ -1,6 +1,5 @@
 # CPR feedback
-![alt text](![Screenshot 2024-02-25 095224](https://github.com/AyaSalahrekaby/CPR-feedback/assets/102102255/ca00295d-8c7f-4ca6-8b24-9042e5651798)
-)
+![Screenshot 2024-02-25 095224](https://github.com/AyaSalahrekaby/CPR-feedback/assets/102102255/ca00295d-8c7f-4ca6-8b24-9042e5651798)
 ### Things used in this project
 | Components | Use | no. |
 | ---------- | -------- | --- |
