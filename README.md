@@ -11,4 +11,13 @@
 | Pressure sensor | to meassure the pressue of the hand | 1 |
 | Push button | to count the number of cpr | 1 |
 
+**The CPR feedback device consists of the following features:**
+- Real Time Rate Measurement
+- Depth Indicator
+- Time
+- Chest Recoil Indicator
+- CPR Cycle Counter
+
+  
+
  
